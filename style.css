@@ -1,0 +1,45 @@
+body {
+    background-color: #3D4C35;
+    justify-content: center;
+    font-family: "Playfair Display", serif;
+  }
+
+h1,h2,h3,h4,h5,h6{
+  
+  color: aliceblue;
+}
+
+section{
+  width: 80%;
+  background-color: #445438;
+}
+
+.heading{
+  font-size: 3.5rem;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.btn{
+  background-color: #3D4C35;
+  color: aliceblue;
+  display: block;
+  height: 75%;
+}
+
+.ref{
+  background-color: aqua;
+}
+
+#quote-area{
+  height: 86vh;
+}
+
+.quote-text{
+  font-size: 3.5rem;
+}
+
+.quote{
+  background-color: #3D4C35;
+  border-radius: 10px;
+}
